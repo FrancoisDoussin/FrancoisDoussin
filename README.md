@@ -1,7 +1,6 @@
 ### Hey 👋
 
-I'm French Developer and Photographer in the beautiful city of Nantes.
-I dev with [@symfony](https://github.com/symfony) for [@GensDeConfiance](https://github.com/GensDeConfiance)
+I'm French Fullstack Developer and Photographer in the beautiful city of Nantes.
 
 - [Linkedin](https://www.linkedin.com/in/francois-doussin)
 - [Twitter](https://twitter.com/FrancoisDoussin)
